@@ -7,7 +7,7 @@ This repository is a collection of tutorials and exercises I completed as a stud
 ## Project Directory Structure
 
 ```
-project_root/
+Python3-MasterCourse-2021-Tutorials/
 │
 ├── 02. Visual Studio Code Python Script/
 │   ├── 02. Visual Studio Code Python Script.code-workspace
