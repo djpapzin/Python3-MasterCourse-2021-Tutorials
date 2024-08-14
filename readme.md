@@ -1,29 +1,62 @@
-# Python 3 Tutorials and Exercises
+# Python 3 Master Course for 2021 - Tutorials
 
-This repository contains Python 3 code examples and exercises covering a wide range of topics, from basic syntax to data structures, functions, and modules. 
+![Course Cover](@course_cover_page.jpeg)
 
-![Course Cover](course_cover_page.jpeg)
+This repository is a collection of tutorials and exercises I completed as a student of the **Udemy Python 3 Ultimate Guide** course. The course is freely available and I highly recommend it to anyone interested in learning Python.
 
-## Course Information
+## Project Directory Structure
 
-These tutorials and exercises are based on the "Python 3 Ultimate Guide" course on Udemy.
+```
+project_root/
+│
+├── 02. Visual Studio Code Python Script/
+│   ├── 02. Visual Studio Code Python Script.code-workspace
+│   └── vsc.py
+│
+├── 03. Python Basics/
+│   ├── 01. Syntax.ipynb
+│   ├── 02. Comments.ipynb
+│   ├── 03. Data Types.ipynb
+│   ├── 04. Numbers.ipynb
+│   ├── 10. For Loops.ipynb
+│   ├── 11. Functions.ipynb
+│   ├── 14. Classes and Object.ipynb
+│   ├── 16. Iterators.ipynb
+│   ├── 17. Scopes.ipynb
+│   ├── 18. Modules.ipynb
+│   ├── 19. Dates.ipynb
+│   ├── 23. Pip.ipynb
+│   ├── 27. Strings.ipynb
+│   ├── 28. Lists.ipynb
+│   ├── 29. Tuples.ipynb
+│   ├── 30. Sets.ipynb
+│   ├── user input.ipynb
+│   └── 09. While Loops.ipynb
+│
+└── README.md
+```
 
-**Course Details:**
-
-- **Platform:** Udemy
-- **Title:** Python 3 Ultimate Guide
+**Course Overview:**
 - **Instructor:** Josh Werner
-- **Skill Level:** All Levels
+- **Rating:** 4.3 out of 5 (3,718 ratings)
+- **Total Students:** 250,186
+- **Duration:** 13 hours
+- **Published:** November 2020
 - **Language:** English
-- **Content:**
-    - Introduction to Python
-    - Setting up Python Development Environment (IDLE, VS Code, Anaconda)
-    - Python Basics (Syntax, Comments, Data Types, Operators, Control Flow, Functions, Lambda, Arrays, Classes, Objects, Inheritance, Iterators, Scope, Modules, Dates, Math, JSON, RegEx, PIP, Try/Except, User Input, String Formatting, Variables)
-    - Data Structures (Strings, Lists, Tuples, Sets, Dictionaries)
+- **Lectures:** 103
+- **Certificates:** Available upon completion
 
-![certificate.jpg](certificate.jpg)
+**Course Content:**
+- Introduction to Python
+- Python Documentation Resources
+- Porting from Python 2 to Python 3
+- Python Basics: Syntax, Data Types, Functions, Classes, and more
+- Advanced Topics: Modules, JSON, RegEx, and PIP
 
-## Repository Structure
+**Features:**
+- Available on iOS and Android
+- Coding exercises
 
-The repository is organized into folders, each representing a specific topic or concept covered in the course. Each folder contains code examples and exercises related to that topic.
+This repository serves as a collection of reference code and examples for anyone interested in learning Python programming.
 
+Enjoy exploring and happy coding!
