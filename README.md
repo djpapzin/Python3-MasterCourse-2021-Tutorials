@@ -1,6 +1,6 @@
 # Python 3 Master Course for 2021 - Tutorials
 
-![Course Cover](@course_cover_page.jpeg)
+![Course Cover](course_cover_page.jpeg)
 
 This repository is a collection of tutorials and exercises I completed as a student of the **Udemy Python 3 Ultimate Guide** course. The course is freely available and I highly recommend it to anyone interested in learning Python.
 
@@ -52,6 +52,7 @@ Python3-MasterCourse-2021-Tutorials/
 │
 └── README.md
 ```
+![Course Certificate](certificate.jpg)
 
 This repository serves as a collection of reference code and examples for anyone interested in learning Python programming.
 
