@@ -2,6 +2,8 @@
 
 This repository contains Python 3 code examples and exercises covering a wide range of topics, from basic syntax to data structures, functions, and modules. 
 
+![Course Cover](course_cover_page.jpeg)
+
 ## Course Information
 
 These tutorials and exercises are based on the "Python 3 Ultimate Guide" course on Udemy.
