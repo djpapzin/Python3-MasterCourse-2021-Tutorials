@@ -1,1 +1,1 @@
-print(" visual studio cod and python rock")
+print(" visual studio code and python rock")
