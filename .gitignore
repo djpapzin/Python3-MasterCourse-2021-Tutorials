@@ -2,3 +2,4 @@
 .venv/
 .aider*
 .ipynb_checkpoints/
+__pycache__/
