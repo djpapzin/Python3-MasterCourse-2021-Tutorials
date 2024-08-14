@@ -27,10 +27,3 @@ These tutorials and exercises are based on the "Python 3 Ultimate Guide" course 
 
 The repository is organized into folders, each representing a specific topic or concept covered in the course. Each folder contains code examples and exercises related to that topic.
 
-## Usage
-
-Feel free to explore the code examples and use them as a reference for your own Python projects. The exercises are designed to help you practice and solidify your understanding of the concepts.
-
-## Disclaimer
-
-I am not the creator of the Udemy course mentioned above. This repository is simply a collection of my personal notes, code examples, and exercises completed during the course.
