@@ -52,8 +52,8 @@ Python3-MasterCourse-2021-Tutorials/
 │
 └── README.md
 ```
-![Course Certificate](certificate.jpg)
-
 This repository serves as a collection of reference code and examples for anyone interested in learning Python programming.
 
 Enjoy exploring and happy coding!
+
+![Course Certificate](certificate.jpg)
