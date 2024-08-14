@@ -4,6 +4,23 @@
 
 This repository is a collection of tutorials and exercises I completed as a student of the **Udemy Python 3 Ultimate Guide** course. The course is freely available and I highly recommend it to anyone interested in learning Python.
 
+**Course Overview:**
+- **Instructor:** Josh Werner
+- **Rating:** 4.3 out of 5 (3,718 ratings)
+- **Total Students:** 250,186
+- **Duration:** 13 hours
+- **Published:** November 2020
+- **Language:** English
+- **Lectures:** 103
+- **Certificates:** Available upon completion
+
+**Course Content:**
+- Introduction to Python
+- Python Documentation Resources
+- Porting from Python 2 to Python 3
+- Python Basics: Syntax, Data Types, Functions, Classes, and more
+- Advanced Topics: Modules, JSON, RegEx, and PIP
+
 ## Project Directory Structure
 
 ```
@@ -35,27 +52,6 @@ Python3-MasterCourse-2021-Tutorials/
 │
 └── README.md
 ```
-
-**Course Overview:**
-- **Instructor:** Josh Werner
-- **Rating:** 4.3 out of 5 (3,718 ratings)
-- **Total Students:** 250,186
-- **Duration:** 13 hours
-- **Published:** November 2020
-- **Language:** English
-- **Lectures:** 103
-- **Certificates:** Available upon completion
-
-**Course Content:**
-- Introduction to Python
-- Python Documentation Resources
-- Porting from Python 2 to Python 3
-- Python Basics: Syntax, Data Types, Functions, Classes, and more
-- Advanced Topics: Modules, JSON, RegEx, and PIP
-
-**Features:**
-- Available on iOS and Android
-- Coding exercises
 
 This repository serves as a collection of reference code and examples for anyone interested in learning Python programming.
 
